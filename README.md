@@ -1,6 +1,6 @@
 # Audio Player
 
-VB6 working copy of `Audio Player` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: AudioDatabase. Output: `Audio Player.exe`.
+VB6 Audio Player (`Audio Player.exe`) with a playlist UI and Windows Media Player OCX (`msdxm.ocx`), plus a database form and Music MDBs. Related to sibling `Audio-Database`. Open `Audio Player.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `AudioDatabase` (`Audio Player.vbp`) | VB6 | WinForms exe | AudioDatabase |
+| `AudioDatabase` (`Audio Player.vbp`) | VB6 | WinForms exe | Playlist player with Media Player OCX |
 
 ## How to open
 
